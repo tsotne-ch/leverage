@@ -970,7 +970,7 @@ footer .row div h4{
     background-color: rgba(0, 0, 0, 0.621);
     background-blend-mode: overlay;
    }
-   .left h1{
+   .well .left h1{
     font-size: 5rem;
    }
 }
